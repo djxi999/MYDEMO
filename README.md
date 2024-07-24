@@ -1,3 +1,3 @@
 # MYDEMO
 MY TRYOUT
-Author = Dammar raj JOshi
+Author = Dammar Raj JOshi
